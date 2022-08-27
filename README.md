@@ -4,7 +4,7 @@ O σκοπός της παρούσας ατομικής εργασίας είν�
 
 ## Initial Settings
 - Αρχικά θα πρέπει να εγκαταστήσετε την έκδοση 3.5.4 του Processing στον υπολογιστή σας ακολουθώντας τα βήματα από [εδώ](https://processing.org/tutorials/gettingstarted).
-- Από την στιγμή που έχετε εγκαταστήσει το Processing μπορείτε να εισάγετε επιπλέον [βιβλιοθήκες](https://processing.org/reference/libraries/). Στο κεφάλαιο 12 του [Learning Processing, 2nd Edition](http://learningprocessing.com/) μπορείτε να δείτε πως εισάγουμε και κάνουμε χρήση των βιβλιοθηκών.  
+- Από την στιγμή που έχετε εγκαταστήσει το Processing μπορείτε να εισάγετε επιπλέον [βιβλιοθήκες](https://processing.org/reference/libraries/). Στο Κεφάλαιο 12 του [Learning Processing, 2nd Edition](http://learningprocessing.com/) μπορείτε να δείτε πως εισάγουμε και κάνουμε χρήση των βιβλιοθηκών.  
 
 ## Βαθμολόγηση
 Λαμβάνοντας υπόψη το ποσοστό της εργασίας στον τελικό βαθμό, με άριστα το 6 τα παραδοτέα βαθμολογούνται ως εξής:
