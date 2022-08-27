@@ -23,7 +23,8 @@ O σκοπός της παρούσας ατομικής εργασίας είν�
 
 ## Resources
 
-- [Learning Processing](http://learningprocessing.com/)
+- [Learning Processing, 2nd Edition](http://learningprocessing.com/)
+- [Make: Getting Started with Processing, 2nd Edition](https://www.oreilly.com/library/view/make-getting-started/9781457187070/)
 
 
 
