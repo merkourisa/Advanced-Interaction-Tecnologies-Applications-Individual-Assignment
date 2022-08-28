@@ -25,6 +25,7 @@ O σκοπός της παρούσας ατομικής εργασίας είν�
 
 - [Learning Processing, 2nd Edition](http://learningprocessing.com/)
 - [Make: Getting Started with Processing, 2nd Edition](https://www.oreilly.com/library/view/make-getting-started/9781457187070/)
+- [OpenCV Processing Book](https://github.com/atduskgreg/opencv-processing-book/blob/master/book/toc.md)
 
 ## Απορίες
 
