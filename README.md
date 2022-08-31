@@ -3,7 +3,7 @@
 O σκοπός της παρούσας ατομικής εργασίας είναι να αναπτύξετε διαδραστικές εφαρμογές κάνοντας χρήση προηγμένων τεχνικών αλληλεπίδρασης. Για το σκοπό αυτό θα χρησιμοποιήσετε τη γλώσσα προγραμματισμού [Processing](https://processing.org/). Αρχικά θα πρέπει να δημιουργήσετε ένα αντίγραφο (fork) του [αποθετηρίου](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment) και στη συνέχεια να υλοποιήσετε τα ζητούμενα, όπως περιγράφονται στα ανοιχτά [issues](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues) της εργασίας.
 
 ## Initial Settings
-- Αρχικά θα πρέπει να εγκαταστήσετε την έκδοση 3.5.4 του Processing στον υπολογιστή σας ακολουθώντας τα βήματα από [εδώ](https://processing.org/tutorials/gettingstarted).
+- Αρχικά θα πρέπει να εγκαταστήσετε την έκδοση 3.5.4 του Processing στον υπολογιστή σας ακολουθώντας τις [οδηγίες](https://processing.org/tutorials/gettingstarted).
 - Από την στιγμή που έχετε εγκαταστήσει το Processing μπορείτε να εισάγετε επιπλέον [βιβλιοθήκες](https://processing.org/reference/libraries/). Στο Κεφάλαιο 12 του [Learning Processing, 2nd Edition](http://learningprocessing.com/) μπορείτε να δείτε πως εισάγουμε και κάνουμε χρήση των βιβλιοθηκών. 
 
 **Προσοχή:** Για να βαθμολογηθεί η εργασία σας πρέπει ο πηγαίος κώδικα κάθε παραδοτέου να βρίσκεται υποχρεωτικά στο προσωπικό σας Github Repository.
