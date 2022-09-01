@@ -3,7 +3,7 @@
 ### First and Last Name: xxx
 ### University Registration Number: dpsdxxxxx
 ### GitHub Personal Profile: xxx
-### Advanced Interaction Tecnologies Applications Github Personal Repository: xxx
+### Advanced Interaction Tecnologies & Applications Github Personal Repository: xxx
 
 # Introduction
 
