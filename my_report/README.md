@@ -1,4 +1,4 @@
-# Lesson: Digital & Serious Games
+# Lesson: Advanced Interaction Technologies & Applications
 
 ### First and Last Name: xxx
 ### University Registration Number: dpsdxxxxx
