@@ -19,7 +19,8 @@ O σκοπός της παρούσας ατομικής εργασίας είν�
 - [παραδοτέο 1](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/1): μέχρι 4/11/2022 
 - [παραδοτέο 2](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/2): μέχρι 16/12/2022
 - [παραδοτέο 3](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/3): μέχρι 13/1/2023
-- [Bonus](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/4): μέχρι 13/1/2023
+- [Bonus 1](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/4): μέχρι 13/1/2023
+- [Bonus 2](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/5): μέχρι 13/1/2023
 
 ## Resources
 
