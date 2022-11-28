@@ -13,7 +13,8 @@ O σκοπός της παρούσας ατομικής εργασίας είν�
 - Προσθήκες όπως περιγράφονται στο [παραδοτέο 1](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/1): μέχρι +2 μονάδες. 
 - Προσθήκες όπως περιγράφονται στο [παραδοτέο 2](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/2): μέχρι +2 μονάδες.
 - Προσθήκες όπως περιγράφονται στο [παραδοτέο 3](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/3): μέχρι +2 μονάδες.
-- Προσθήκες όπως περιγράφονται στο [Bonus](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/4): μέχρι +2 μονάδες.
+- Προσθήκες όπως περιγράφονται στο [Bonus 1](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/4): μέχρι +2 μονάδες.
+- Προσθήκες όπως περιγράφονται στο [Bonus 2](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/8): μέχρι +2 μονάδες.
 
 ## Προθεσμίες
 - [παραδοτέο 1](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/1): μέχρι 4/11/2022 
