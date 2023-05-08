@@ -24,8 +24,8 @@ O σκοπός της παρούσας ατομικής εργασίας είν�
 - [παραδοτέο 3](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/3): μέχρι 13/1/2023
 - [Bonus 1](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/4): μέχρι 13/1/2023
 - [Bonus 2](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/8): μέχρι 13/1/2023
-- [παραδοτέο 4](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/9): μέχρι μια πριν τη γραπτή εξέταση του μαθήματος.
-- [παραδοτέο 5](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/10): μέχρι μια πριν τη γραπτή εξέταση του μαθήματος.
+- [παραδοτέο 4](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/9): μέχρι μια ημέρα πριν τη γραπτή εξέταση του μαθήματος.
+- [παραδοτέο 5](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/10): μέχρι μια ημέρα πριν τη γραπτή εξέταση του μαθήματος.
 
 ## Eπαναληπτική Εξέταση Ιούνιου - Σεπτεμβρίου
 - Για την εμβόλιμη εξεταστική του Ιουνίου και για την επαναληπτική εξέταση του Σεπτεμβρίου είναι διαθέσιμα τα ζητούμενα και οι βαθμολογίες από τα [παραδοτέα 4](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/9) και [παραδοτέα 5](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/10). 
