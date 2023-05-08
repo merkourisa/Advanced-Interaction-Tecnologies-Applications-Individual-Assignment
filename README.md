@@ -15,6 +15,8 @@ O σκοπός της παρούσας ατομικής εργασίας είν�
 - Προσθήκες όπως περιγράφονται στο [παραδοτέο 3](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/3): μέχρι +2 μονάδες.
 - Προσθήκες όπως περιγράφονται στο [Bonus 1](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/4): μέχρι +2 μονάδες.
 - Προσθήκες όπως περιγράφονται στο [Bonus 2](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/8): μέχρι +2 μονάδες.
+- Προσθήκες όπως περιγράφονται στο [παραδοτέο 4](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/9): μέχρι +2 μονάδες.
+- Προσθήκες όπως περιγράφονται στο [παραδοτέο 5](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/10): μέχρι +2 μονάδες.
 
 ## Προθεσμίες
 - [παραδοτέο 1](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/1): μέχρι 4/11/2022 
@@ -22,6 +24,14 @@ O σκοπός της παρούσας ατομικής εργασίας είν�
 - [παραδοτέο 3](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/3): μέχρι 13/1/2023
 - [Bonus 1](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/4): μέχρι 13/1/2023
 - [Bonus 2](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/8): μέχρι 13/1/2023
+- [παραδοτέο 4](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/9): μέχρι μια πριν τη γραπτή εξέταση του μαθήματος.
+- [παραδοτέο 5](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/10): μέχρι μια πριν τη γραπτή εξέταση του μαθήματος.
+
+## Eπαναληπτική Εξέταση Ιούνιου - Σεπτεμβρίου
+- Για την εμβόλιμη εξεταστική του Ιουνίου και για την επαναληπτική εξέταση του Σεπτεμβρίου είναι διαθέσιμα τα ζητούμενα και οι βαθμολογίες από τα [παραδοτέο 4](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/9) και [παραδοτέο 5](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/10). 
+- Ο μέγιστος βαθμός της ατομικής εργασίας είναι 4 ενώ της γραπτής εξέτασης 6.
+- Η προθεσμία παράδοσης της ατομικής εργασίας είναι μια ημέρα πριν τη γραπτή εξέταση του μαθήματος.
+- Μετά το πέρας της γραπτής εξέτασης του μαθήματος οι φοιτητές/τρίες οφείλουν να παρουσιάσουν την εργασία τους στο εργαστήριο για να κατοχυρώσουν το βαθμό που θα προκύψει από την αξιολόγησή της.
 
 ## Resources
 
