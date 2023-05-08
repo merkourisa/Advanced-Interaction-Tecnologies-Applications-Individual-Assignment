@@ -28,7 +28,7 @@ O σκοπός της παρούσας ατομικής εργασίας είν�
 - [παραδοτέο 5](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/10): μέχρι μια πριν τη γραπτή εξέταση του μαθήματος.
 
 ## Eπαναληπτική Εξέταση Ιούνιου - Σεπτεμβρίου
-- Για την εμβόλιμη εξεταστική του Ιουνίου και για την επαναληπτική εξέταση του Σεπτεμβρίου είναι διαθέσιμα τα ζητούμενα και οι βαθμολογίες από τα [παραδοτέο 4](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/9) και [παραδοτέο 5](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/10). 
+- Για την εμβόλιμη εξεταστική του Ιουνίου και για την επαναληπτική εξέταση του Σεπτεμβρίου είναι διαθέσιμα τα ζητούμενα και οι βαθμολογίες από τα [παραδοτέα 4](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/9) και [παραδοτέα 5](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/10). 
 - Ο μέγιστος βαθμός της ατομικής εργασίας είναι 4 ενώ της γραπτής εξέτασης 6.
 - Η προθεσμία παράδοσης της ατομικής εργασίας είναι μια ημέρα πριν τη γραπτή εξέταση του μαθήματος.
 - Μετά το πέρας της γραπτής εξέτασης του μαθήματος οι φοιτητές/τρίες οφείλουν να παρουσιάσουν την εργασία τους στο εργαστήριο για να κατοχυρώσουν το βαθμό που θα προκύψει από την αξιολόγησή της.
